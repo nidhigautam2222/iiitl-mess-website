@@ -60,12 +60,19 @@ Spring Boot Backend
 Database
 
 ▶️ How to Run the Project Locally
+
 🔹 Backend Setup
+
 cd backend
+
 mvn spring-boot:run
+
 🔹 Frontend Setup
+
 cd frontend
+
 npm install
+
 npm start
 
 Frontend runs on:
