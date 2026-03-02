@@ -1,5 +1,6 @@
 📌 IIITL Mess Website
 (Full-Stack Web Application | Group Project)
+
 🧾 Overview
 
 The IIITL Mess Website is a full-stack web application developed as a group project to digitally manage and display college mess services.
@@ -21,6 +22,7 @@ This repository contains my implementation and contributions to the project.
 🔄 Version Control using Git for collaborative development
 
 🛠️ Tech Stack
+
 🔹 Frontend
 
 React.js
